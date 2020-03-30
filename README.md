@@ -1,8 +1,6 @@
 # Imagens do App
 
-  ![Primeira imagem](/path/image01.png)
-
-  ![Segunda imagem](/path/image02.png)
+  ![Primeira imagem](/path/image.png)
   
 
 ## 🚀 Descrição

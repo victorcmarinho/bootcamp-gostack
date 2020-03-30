@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { TouchableOpacity } from 'react-native';
+import { TouchableOpacity, Linking } from 'react-native';
 
 import PropTypes from 'prop-types';
 import {
@@ -95,8 +95,8 @@ export default class User extends Component {
         full_name,
         html_url,
       };
-  
-      navigation.navigate('Repository', { repository });
+      Linking.openURL(html_url).catch((err) => console.error('An error occurred', err));
+      
     }
   
     render() {
