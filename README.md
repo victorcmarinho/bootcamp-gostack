@@ -1,47 +1,28 @@
-<h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
-</h1>
+# Imagens do App
 
-<h3 align="center">
-  Módulo 6: Github Explorer - React Native
-</h3>
+  ![Primeira imagem](/path/image01.png)
 
-<p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
+  ![Segunda imagem](/path/image02.png)
+  
 
-## Imagens do App
-
-  <img alt="Página Iniicial" src="./path/image01.png" width="200px" />
-  <img alt="Segunda Página" src="./path/image02.png" width="200px" />
-
-
-<p align="center">
-  <a href="#rocket-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-iniciando-a-aplicação">Iniciando aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-## :rocket: Descrição
+## 🚀 Descrição
 
 Github Explorer foi desenvolvido utilizando React Native e todo ambiente configurando com ESLint, Prettier, Babel, Webpack. O objetivo dessa aplicação é listar todos os repositórios do Github de uma determinado usuário, sendo possível favoritar cada um.
 
-## :hammer: Iniciando a aplicação
+### 🔨 Iniciando a aplicação
 
 Para executar a aplicação execute os seguintes comandos:
 
 Instale todas a dependências:
 
-```bash
-
+```
 yarn
-
 ```
 
 Para executar na plataforma Android, execute o seguinte comando:
 
-```bash
-
-  yarn android
-
+```
+yarn android
 ```
 
 Para executar na plataforma Android, primeiro você deve abrir o Emulador:
@@ -50,13 +31,11 @@ Inicie o Android Studio em sua máquina, depois procure por AVD Manager, gerenci
 
 Após iniciar o emulador execute o seguinte comando:
 
-```bash
-
-  yarn start
-
+```
+yarn start
 ```
 
-## :memo: Licença
+#### 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
