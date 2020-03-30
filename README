@@ -1,9 +1,8 @@
+# Imagens do App
 
+  ![Primeira imagem](/path/image01.png)
 
-
-## Imagens do App
-  ![Primeira Imagem](/path/image01.png)
-  ![Segunda Imagem](/path/image02.png)
+  ![Segunda imagem](/path/image02.png)
   
 
 
@@ -11,24 +10,20 @@
 
 Github Explorer foi desenvolvido utilizando React Native e todo ambiente configurando com ESLint, Prettier, Babel, Webpack. O objetivo dessa aplicação é listar todos os repositórios do Github de uma determinado usuário, sendo possível favoritar cada um.
 
-## 🔨 Iniciando a aplicação
+### 🔨 Iniciando a aplicação
 
 Para executar a aplicação execute os seguintes comandos:
 
 Instale todas a dependências:
 
-```bash
-
+```
 yarn
-
 ```
 
 Para executar na plataforma Android, execute o seguinte comando:
 
-```bash
-
-  yarn android
-
+```
+yarn android
 ```
 
 Para executar na plataforma Android, primeiro você deve abrir o Emulador:
@@ -37,13 +32,11 @@ Inicie o Android Studio em sua máquina, depois procure por AVD Manager, gerenci
 
 Após iniciar o emulador execute o seguinte comando:
 
-```bash
-
-  yarn start
-
+```
+yarn start
 ```
 
-## 📝 Licença
+#### 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
